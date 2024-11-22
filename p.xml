@@ -1,0 +1,75 @@
+<Module>
+<ModulePrefs title="google.com"/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> 
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>google.com</title>
+      <style> body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; background-color: #f9f9f9; } h1 { color: #333; margin-top: 20px; } .button-container { display: flex; flex-direction: column; align-items: center; margin: 20px auto; } .link-button { display: inline-block; width: 80%; max-width: 300px; margin: 10px 0; padding: 15px; font-size: 16px; color: #fff; background-color: #007BFF; text-decoration: none; border-radius: 5px; text-align: center; cursor: pointer; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s, transform 0.2s; } .link-button:hover { background-color: #0056b3; transform: scale(1.05); } </style>
+   </head>
+   <body>
+      <h3>test</h3>
+      <h1>doge</h1>
+      <div class="button-container">
+         <a class="link-button" href="https://nirbdoge.kalbas.com.vn">Link 1</a>
+         <a class="link-button" href="https://jnjsnhahyanhhayhah.fr.to/">Link 2</a>
+         <a class="link-button" href="https://v4-seven-roan.vercel.app/">Link 3</a>
+         <a class="link-button" href="https://sigma-j2rlwri6.b4a.run/">Link 4</a>
+         <a class="link-button" href="https://holysigmaholyfrockimcomingloisiscool123.masplenedigitalworld.com">Link 5</a>
+         <a class="link-button" href="https://imgettingspammedbychrome.nekros.info/">Link 6</a>
+         <a class="link-button" href="https://jhonglinglang.pakasak.com">Link 7</a>
+         <a class="link-button" href="https://the-newest-domain.m-bay.net/">Link 8</a>
+         <a class="link-button" href="https://schoolearning.sashank78.com.np/">Link 9</a>
+         <a class="link-button" href="http://ilovelearning.afrengineering-cd.com/">Link 10</a>
+      </div>
+      <h1>shuttle</h1>
+      <div class="button-container">
+         <a class="link-button" href="https://poweredbynirbytesp89.vercel.app/">Link 1</a>
+         <a class="link-button" href="https://shuttlextravi5265.vercel.app/">Link 2</a>
+         <a class="link-button" href="https://nirbytesshuttle925x.vercel.app/">Link 3</a>
+         <a class="link-button" href="https://dilasbakhati6546165.vercel.app/">Link 4</a>
+         <a class="link-button" href="https://shutlexi78.vercel.app/">Link 5</a>
+         <a class="link-button" href="https://rampage2546xvip.vercel.app/">Link 6</a>
+         <a class="link-button" href="https://smiakhalifa85965crf.vercel.app/">Link 7</a>
+         <a class="link-button" href="https://gulabigratpti8954.vercel.app/">Link 8</a>
+         <a class="link-button" href="https://christianoronaldocr7568.vercel.app/">Link 9</a>
+         <a class="link-button" href="https://messi2025cupxrc.vercel.app/">Link 10</a>
+         <a class="link-button" href="https://vipusers2024xr.vercel.app/">Link 11</a>
+      </div>
+      <h1>interstellar</h1>
+      <div class="button-container">
+         <a class="link-button" href="https://staticin.pages.dev/">Link 1</a>
+         <a class="link-button" href="https://int-bblum3-ryt-s-projects.vercel.app/">Link 2</a>
+         <a class="link-button" href="https://infinity.math-help.xyz/">Link 3</a>
+         <a class="link-button" href="https://interstellar.math-help.xyz/">Link 4</a>
+         <a class="link-button" href="https://makingamazingthings.100mountain.com/">Link 5</a>
+         <a class="link-button" href="https://blocksienterpriseedition.strangled.net/">Link 6</a>
+         <a class="link-button" href="https://linuxblog.root.sx/">Link 7</a>
+         <a class="link-button" href="https://home.filipgrujic.rs/">Link 8</a>
+         <a class="link-button" href="https://home.io-lng-en.com/">Link 9</a>
+         <a class="link-button" href="https://bob-is-just-him.chillcrew.net/">Link 10</a>
+         <a class="link-button" href="https://youshouldgotothe.chillcrew.net/">Link 11</a>
+      </div>
+      <h1>rammerhead</h1>
+      <div class="button-container">
+         <a class="link-button" href="https://qwertyabc123.nekros.info/">Link 1</a>
+         <a class="link-button" href="https://thisisnotagamewebsite.thebrittainlawfirm.com/">Link 2</a>
+         <a class="link-button" href="https://cobrakaiiiiii.luhu.jp/">Link 3</a>
+         <a class="link-button" href="https://idsmashskibiditoiletbruhh.murighiol.ro/">Link 4</a>
+         <a class="link-button" href="https://thisbetterstayonline.stremar.cl/">Link 5</a>
+         <a class="link-button" href="https://cheesepizza.undo.it/">Link 6</a>
+         <a class="link-button" href="https://gorammsesss.isoluxltda.cl/">Link 7</a>
+         <a class="link-button" href="https://loilonote.poo.li/">Link 8</a>
+         <a class="link-button" href="https://reallyreallyhardmathstuff333.intprosys.net/">Link 9</a>
+         <a class="link-button" href="https://hothockey.hardsoft.nu/">Link 10</a>
+         <a class="link-button" href="https://funrun.pii.at/">Link 11</a>
+         <a class="link-button" href="https://c.is-very.fun/">Link 12</a>
+         <a class="link-button" href="https://d.is-very.fun/">Link 13</a>
+         <a class="link-button" href="https://schoolsgotnothingonme.burgerbar.cl/">Link 14</a>
+      </div>
+   </body>
+</html> ]]>
+</Content>
+</Module>
